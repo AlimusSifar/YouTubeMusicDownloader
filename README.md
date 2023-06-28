@@ -1,5 +1,5 @@
 # YouTubeAudioDownloader
----
+
 A simple program that allows you to easily download the audio from any (non-explicit) YouTube video. 
 
 
@@ -10,7 +10,7 @@ A simple program that allows you to easily download the audio from any (non-expl
 
 # Usage
 1. **Google Colab:**
-   - Click [here]([link](https://colab.research.google.com/drive/10GF0RY5FSCQh4VH0lTjjakNy284A4_Sw?usp=sharing#scrollTo=oKXUyZPxD5zQ) "YouTubeAudioDownloader") to open the program in Google Colab.
+   - Click [here](https://colab.research.google.com/drive/10GF0RY5FSCQh4VH0lTjjakNy284A4_Sw?usp=sharing#scrollTo=oKXUyZPxD5zQ "YouTubeAudioDownloader") to open the program in Google Colab.
    - Follow the instructions provided within the Colab notebook to run the program.
    - *Note: Ensure that you have a Google account and are signed in to access and execute the code.*
 

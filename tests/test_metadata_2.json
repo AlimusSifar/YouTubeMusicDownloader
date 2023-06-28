@@ -1,0 +1,26 @@
+{
+  "title": "Chance On Faith",
+  "album": "Chance On Faith - Single",
+  "album_artist": "Uplink & Heather Sommer",
+  "artist": "Uplink & Heather Sommer",
+  "track": [
+    1,
+    1
+  ],
+  "date": "2019-12-05",
+  "genre": "Dance",
+  "composer": null,
+  "disk": [
+    1,
+    1
+  ],
+  "compilation": 0,
+  "copyright": "℗ 2019 NCS",
+  "sort_name": "Chance On Faith",
+  "sort_album": "Chance On Faith - Single",
+  "sort_album_artist": "Uplink & Heather Sommer",
+  "sort_artist": "Uplink & Heather Sommer",
+  "sort_composer": null,
+  "lyrics": "",
+  "comment": "Metadata added via Python module named 'Mutagen'"
+}

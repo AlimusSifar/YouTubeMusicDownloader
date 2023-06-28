@@ -1,0 +1,31 @@
+{
+  "title": "Castle",
+  "album": "Castle - Single",
+  "album_artist": "Clarx & Harddope",
+  "artist": "Clarx & Harddope",
+  "track": [
+    1,
+    1
+  ],
+  "date": "2020-05-01",
+  "genre": "Dance",
+  "composer": null,
+  "disk": [
+    1,
+    1
+  ],
+  "compilation": null,
+  "gapless_playback": null,
+  "rating": 0,
+  "media_type": 1,
+  "copyright": "℗ 2020 NCS",
+  "account_id": "alimussifar@icloud.com",
+  "purchase_date": "2022-01-01",
+  "sort_name": "Castle",
+  "sort_album": "Castle - Single",
+  "sort_album_artist": "Clarx & Harddope",
+  "sort_artist": "Clarx & Harddope",
+  "sort_composer": null,
+  "lyrics": "",
+  "comment": "Metadata added via Python module named 'Mutagen'"
+}

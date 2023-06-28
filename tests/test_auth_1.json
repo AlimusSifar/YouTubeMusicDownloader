@@ -1,0 +1,6 @@
+{
+  "access_token": "token-returned-from-the-spotify-api-as-a-response",
+  "token_type": "Bearer",
+  "expires_in": 3600,
+  "authorize_after": 1786665579.155951
+}

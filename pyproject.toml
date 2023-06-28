@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "youtube-audio-downloader"
+version = "0.1.0"
+description = "A simple program that allows you to easily download the audio from any (non-explicit) YouTube video."
+authors = ["Alimus Sifar <alimussifar90@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10.0"
+ipykernel = "^6.23.1"
+ipywidgets = "^8.0.6"
+requests = "^2.31.0"
+mutagen = "^1.46.0"
+ffmpeg-python = "^0.2.0"
+pillow = "^9.5.0"
+beautifulsoup4 = "^4.12.2"
+pytube = "^15.0.0"
+
+[tool.poetry.group.dev.dependencies]
+coverage = "^7.2.7"
+
+[tool.pytest.ini_options]
+addopts="-n 4"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

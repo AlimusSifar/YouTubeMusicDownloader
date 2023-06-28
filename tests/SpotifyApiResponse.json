@@ -1,0 +1,397 @@
+{
+  "tracks": {
+    "href": "https://api.spotify.com/v1/search?query=hasting%2C+fighting+for+you&type=track&market=US&offset=0&limit=5",
+    "items": [
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7LLO72eaXdiloEBVb7jhJw"
+              },
+              "href": "https://api.spotify.com/v1/artists/7LLO72eaXdiloEBVb7jhJw",
+              "id": "7LLO72eaXdiloEBVb7jhJw",
+              "name": "Hasting",
+              "type": "artist",
+              "uri": "spotify:artist:7LLO72eaXdiloEBVb7jhJw"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/7D8Esv6Qu8RveHarRWdjaf"
+          },
+          "href": "https://api.spotify.com/v1/albums/7D8Esv6Qu8RveHarRWdjaf",
+          "id": "7D8Esv6Qu8RveHarRWdjaf",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273d06cad39758fa46664311381",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02d06cad39758fa46664311381",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851d06cad39758fa46664311381",
+              "width": 64
+            }
+          ],
+          "is_playable": true,
+          "name": "When Heaven Comes Down",
+          "release_date": "2006-07-18",
+          "release_date_precision": "day",
+          "total_tracks": 12,
+          "type": "album",
+          "uri": "spotify:album:7D8Esv6Qu8RveHarRWdjaf"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LLO72eaXdiloEBVb7jhJw"
+            },
+            "href": "https://api.spotify.com/v1/artists/7LLO72eaXdiloEBVb7jhJw",
+            "id": "7LLO72eaXdiloEBVb7jhJw",
+            "name": "Hasting",
+            "type": "artist",
+            "uri": "spotify:artist:7LLO72eaXdiloEBVb7jhJw"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 220066,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "CAI370611475"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6NnW8gPBF5MGtu1mKfF4lI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6NnW8gPBF5MGtu1mKfF4lI",
+        "id": "6NnW8gPBF5MGtu1mKfF4lI",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Fighting For You",
+        "popularity": 2,
+        "preview_url": "https://p.scdn.co/mp3-preview/2b0a7b7ea8a553e777971429bb3c8106266f14f9?cid=91a704941f39447980874befd4221bb6",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:6NnW8gPBF5MGtu1mKfF4lI"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+              },
+              "href": "https://api.spotify.com/v1/artists/7yZC6AEhvCD5NFR8yDUxCG",
+              "id": "7yZC6AEhvCD5NFR8yDUxCG",
+              "name": "Riley Clemmons",
+              "type": "artist",
+              "uri": "spotify:artist:7yZC6AEhvCD5NFR8yDUxCG"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1fVyZLsUGyDJcqgRfq8wZ2"
+          },
+          "href": "https://api.spotify.com/v1/albums/1fVyZLsUGyDJcqgRfq8wZ2",
+          "id": "1fVyZLsUGyDJcqgRfq8wZ2",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273f44f1c5c79ffdbc84f6b7a56",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02f44f1c5c79ffdbc84f6b7a56",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851f44f1c5c79ffdbc84f6b7a56",
+              "width": 64
+            }
+          ],
+          "is_playable": true,
+          "name": "Godsend",
+          "release_date": "2021-06-04",
+          "release_date_precision": "day",
+          "total_tracks": 12,
+          "type": "album",
+          "uri": "spotify:album:1fVyZLsUGyDJcqgRfq8wZ2"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7yZC6AEhvCD5NFR8yDUxCG",
+            "id": "7yZC6AEhvCD5NFR8yDUxCG",
+            "name": "Riley Clemmons",
+            "type": "artist",
+            "uri": "spotify:artist:7yZC6AEhvCD5NFR8yDUxCG"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 229066,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USUM71903392"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3JAu2ZH2noaUSbZ0MctU58"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3JAu2ZH2noaUSbZ0MctU58",
+        "id": "3JAu2ZH2noaUSbZ0MctU58",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Fighting For Me",
+        "popularity": 59,
+        "preview_url": "https://p.scdn.co/mp3-preview/117523fb54bf490f4f69633bbe1d570d163b977f?cid=91a704941f39447980874befd4221bb6",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:3JAu2ZH2noaUSbZ0MctU58"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+              },
+              "href": "https://api.spotify.com/v1/artists/7yZC6AEhvCD5NFR8yDUxCG",
+              "id": "7yZC6AEhvCD5NFR8yDUxCG",
+              "name": "Riley Clemmons",
+              "type": "artist",
+              "uri": "spotify:artist:7yZC6AEhvCD5NFR8yDUxCG"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/47d2vWvqayOsNeFeRI43ba"
+          },
+          "href": "https://api.spotify.com/v1/albums/47d2vWvqayOsNeFeRI43ba",
+          "id": "47d2vWvqayOsNeFeRI43ba",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273f7cddf8b47427dcee3f86d5e",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02f7cddf8b47427dcee3f86d5e",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851f7cddf8b47427dcee3f86d5e",
+              "width": 64
+            }
+          ],
+          "is_playable": true,
+          "name": "Fighting For Me",
+          "release_date": "2019-03-29",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:47d2vWvqayOsNeFeRI43ba"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7yZC6AEhvCD5NFR8yDUxCG",
+            "id": "7yZC6AEhvCD5NFR8yDUxCG",
+            "name": "Riley Clemmons",
+            "type": "artist",
+            "uri": "spotify:artist:7yZC6AEhvCD5NFR8yDUxCG"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 229066,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USUM71903392"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5StojELSdCvj23qhF9OxDW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5StojELSdCvj23qhF9OxDW",
+        "id": "5StojELSdCvj23qhF9OxDW",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Fighting For Me",
+        "popularity": 55,
+        "preview_url": "https://p.scdn.co/mp3-preview/c251a45b09f4ff41bd65063e365e587d6d66aff9?cid=91a704941f39447980874befd4221bb6",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5StojELSdCvj23qhF9OxDW"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+              },
+              "href": "https://api.spotify.com/v1/artists/7yZC6AEhvCD5NFR8yDUxCG",
+              "id": "7yZC6AEhvCD5NFR8yDUxCG",
+              "name": "Riley Clemmons",
+              "type": "artist",
+              "uri": "spotify:artist:7yZC6AEhvCD5NFR8yDUxCG"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/09kNwOGcbsWPIxUtcQAfZ6"
+          },
+          "href": "https://api.spotify.com/v1/albums/09kNwOGcbsWPIxUtcQAfZ6",
+          "id": "09kNwOGcbsWPIxUtcQAfZ6",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27387752cddeca6cd007fc2b816",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0287752cddeca6cd007fc2b816",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485187752cddeca6cd007fc2b816",
+              "width": 64
+            }
+          ],
+          "is_playable": true,
+          "name": "Fighting For Me",
+          "release_date": "2019-06-21",
+          "release_date_precision": "day",
+          "total_tracks": 3,
+          "type": "album",
+          "uri": "spotify:album:09kNwOGcbsWPIxUtcQAfZ6"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7yZC6AEhvCD5NFR8yDUxCG",
+            "id": "7yZC6AEhvCD5NFR8yDUxCG",
+            "name": "Riley Clemmons",
+            "type": "artist",
+            "uri": "spotify:artist:7yZC6AEhvCD5NFR8yDUxCG"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 229506,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USUM71910671"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7cs1IZreTBd9TegivWotSv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7cs1IZreTBd9TegivWotSv",
+        "id": "7cs1IZreTBd9TegivWotSv",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Fighting For Me - Piano Version",
+        "popularity": 52,
+        "preview_url": "https://p.scdn.co/mp3-preview/3f509b3f2eb7cc9f9bfa14f2dd36daf6e52e3780?cid=91a704941f39447980874befd4221bb6",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7cs1IZreTBd9TegivWotSv"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
+              },
+              "href": "https://api.spotify.com/v1/artists/7v35CkHBaT1SStgQHl95a0",
+              "id": "7v35CkHBaT1SStgQHl95a0",
+              "name": "Tenth Avenue North",
+              "type": "artist",
+              "uri": "spotify:artist:7v35CkHBaT1SStgQHl95a0"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C"
+          },
+          "href": "https://api.spotify.com/v1/albums/4Hjjqd2cPyD9K8TbSC9O6C",
+          "id": "4Hjjqd2cPyD9K8TbSC9O6C",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27369fa55f10c5293bbb985c1af",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0269fa55f10c5293bbb985c1af",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485169fa55f10c5293bbb985c1af",
+              "width": 64
+            }
+          ],
+          "is_playable": true,
+          "name": "Followers",
+          "release_date": "2016-10-14",
+          "release_date_precision": "day",
+          "total_tracks": 10,
+          "type": "album",
+          "uri": "spotify:album:4Hjjqd2cPyD9K8TbSC9O6C"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
+            },
+            "href": "https://api.spotify.com/v1/artists/7v35CkHBaT1SStgQHl95a0",
+            "id": "7v35CkHBaT1SStgQHl95a0",
+            "name": "Tenth Avenue North",
+            "type": "artist",
+            "uri": "spotify:artist:7v35CkHBaT1SStgQHl95a0"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 202106,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USA5W1600159"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0UM42CgDomxoHqoKWodyDv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0UM42CgDomxoHqoKWodyDv",
+        "id": "0UM42CgDomxoHqoKWodyDv",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Fighting For You",
+        "popularity": 36,
+        "preview_url": "https://p.scdn.co/mp3-preview/e9f84b4216ff11832ac60491442e0b9a3bdf4e2d?cid=91a704941f39447980874befd4221bb6",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:0UM42CgDomxoHqoKWodyDv"
+      }
+    ],
+    "limit": 5,
+    "next": "https://api.spotify.com/v1/search?query=hasting%2C+fighting+for+you&type=track&market=US&offset=5&limit=5",
+    "offset": 0,
+    "previous": null,
+    "total": 801
+  }
+}
